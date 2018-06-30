@@ -4,8 +4,8 @@ This repository contains data analysis related projects of my own for academic, 
 ## Contents
 1. [Graduation Thesis](#graduation-thesis)
 2. [General Python Coding](#general-python-coding)
-3. Data visualization in English
-3. Data visualization in Korean
+3. [Data Visualization in English](data-visualization-in-english)
+4. [Data Visualization in Korean](data-visualization-in-korean)
 
 ## Graduation Thesis
 ### Title: An Analysis of Writing Skills in Machine Written Poetry by Case Study
@@ -15,7 +15,7 @@ The focus of this research stays between science and literature. Combination wor
 #### Whole Paper
 [Click to see the PDF](./graduation_thesis/graduation_thesis.pdf)
 
-##General Python Coding
+## General Python Coding
 - **[Binary Converter](./python_work/1.binary_converter.py)**  
   - A simple program that takes a integer as an input, and convert it to binary if the input value is decimal, and covert it to decimal if the origin input is in binary. Capable of error handling when unexpected input gets through.
 - **[Multiplication Table](./python_work/2.multiplication_table.py)**
@@ -24,8 +24,13 @@ The focus of this research stays between science and literature. Combination wor
   - Simple game played between the user and computer, the player has to guess the 3 random integers that do not conflict in the same order. the number of strikes show the numbers that are in the same order, and the number of balls are for the numbers that exists but in other position with the input.  
 - **[Morse Code](./python_work/4.morse_code.py)**
   - Simple program that returns the morse code for the sentence, and returns plain English when a morse code is inputed.
+- **[Linear Algebra](./python_work/5.linear_algebra.py)**
+  - A collection of functions that are capable of solving simple linear algebra equations without using any kind of modules including NumPy. All the codes uses list comprehension to make the code more Pythonic.
+
+## Data Visualization in English
 
 
 
 
+## Data Visualization in Korean
 For further questions, work opportunities, and chat send me an email at jhson415@gmail.com

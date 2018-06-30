@@ -23,7 +23,7 @@ The focus of this research stays between science and literature. Combination wor
 - **[Baseball Game](./python_work/3.baseball_game.py)**
   - Simple game played between the user and computer, the player has to guess the 3 random integers that do not conflict in the same order. the number of strikes show the numbers that are in the same order, and the number of balls are for the numbers that exists but in other position with the input.  
 - **[Morse Code](./python_work/4.morse_code.py)**
-  - Simple program that returns the morse code for the sentence, and returns plain English when a morse code is inputed. 
+  - Simple program that returns the morse code for the sentence, and returns plain English when a morse code is inputed.
 
 
 

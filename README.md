@@ -29,8 +29,33 @@ The focus of this research stays between science and literature. Combination wor
 
 ## Data Visualization in English
 
+### Without modules
+- **[US Birth Data](./data_analysis/without_modules/us_birth/us_birth.ipynb)**
+  - Information about the dataset
+- **[US Gun Data](./data_analysis/without_modules/us_guns/us_guns.ipynb)**  
+  - Information about the dataset
 
+### With NumPy
+- **[World Alcohole Data](./data_analysis/with_numpy/world_alcohol/world_alcohol.ipynb)**
+  - Information about the dataset
 
+### With Pandas
+- **[Food Information Data](./data_analysis/with_pandas/food_information_data/food_information_analysis.ipynb)**
+  - Information about the dataset
+- **[Thanksgiving Data](./data_analysis/with_pandas/us_thanksgiving_dinner/Thanksgiving_dinner.ipynb)**
+  - Information about the dataset
+
+### With Matplotlib
+- **[College Gender Gap](./data_analysis/with_matplotlib/gender_gap_in_college/college_gender_gap.ipynb)**
+  - Information about the dataset
+- **[Students Job Outcome Data](./data_analysis/with_matplotlib/job_outcomes_of_students/job_outcomes.ipynb)**
+  - Information about the dataset
+- **[Titanic Data](./data_analysis/with_seaborn/titanic.ipynb)**
+  - Information about the dataset
+- **[Airline & Ariports Data](./data_analysis/with_basemap/airlines_and_airports/airlines_and_airports.ipynb)**
+  - Information about the dataset
 
 ## Data Visualization in Korean
+- Preparing
+
 For further questions, work opportunities, and chat send me an email at jhson415@gmail.com

@@ -4,8 +4,8 @@ This repository contains data analysis related projects of my own for academic, 
 ## Contents
 1. [Graduation Thesis](#graduation-thesis)
 2. [General Python Coding](#general-python-coding)
-3. [Data Visualization in English](data-visualization-in-english)
-4. [Data Visualization in Korean](data-visualization-in-korean)
+3. [Data Visualization in English](#data-visualization-in-english)
+4. [Data Visualization in Korean](#data-visualization-in-korean)
 
 ## Graduation Thesis
 ### Title: An Analysis of Writing Skills in Machine Written Poetry by Case Study
@@ -28,7 +28,6 @@ The focus of this research stays between science and literature. Combination wor
   - A collection of functions that are capable of solving simple linear algebra equations without using any kind of modules including NumPy. All the codes uses list comprehension to make the code more Pythonic.
 
 ## Data Visualization in English
-
 ### Without modules
 - **[US Birth Data](./data_analysis/without_modules/us_birth/us_birth.ipynb)**
   - Information about the dataset

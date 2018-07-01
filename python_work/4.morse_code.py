@@ -1,3 +1,4 @@
+# dictionary of all the morse codes
 def get_morse_code_dict():
     morse_code = {
         "A": ".-", "N": "-.", "B": "-...", "O": "---", "C": "-.-.", "P": ".--.", "D": "-..", "Q": "--.-", "E": ".",

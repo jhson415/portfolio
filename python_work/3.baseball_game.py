@@ -100,6 +100,7 @@ def main():
     random_number = str(get_not_duplicated_random())
 
     while play_game:
+        # This print statement is to check if the porgram runs the right way, when the game is actually played, this line should be deleted
         print("Random Number is : ", random_number)
         user_input = input('Input guess number: ')
 

@@ -30,7 +30,7 @@ The focus of this research stays between science and literature. Combination wor
 ## Data Visualization in English
 ### Without modules
 - **[US Birth Data](./data_analysis/without_modules/us_birth/us_birth.ipynb)**
-  - Information about the dataset
+  - The dataset carries information of the number of birth for each day from 1994 to 2014. It was able to find out some relationship between the birth and dates. 
 - **[US Gun Data](./data_analysis/without_modules/us_guns/us_guns.ipynb)**  
   - Information about the dataset
 

@@ -55,15 +55,6 @@ def is_matrix_equal(*matrix_variables):
 
     result = any([any([(i[0] - sum(i[1:])) for i in zip(*j)]) for j in zip(*matrix_variables)]) == False
 
-    # for i in zip(*matrix_variables):
-    #     first_vector = []
-    #     for j in i:
-    #         if first_vector == []:
-    #             first_vector = j
-    #         else:
-    #             if first_vector != j:
-    #                 return False
-
     return result
 
 
@@ -109,13 +100,3 @@ def matrix_product(matrix_a, matrix_b):
 
     result = [[sum(a * b for a, b in zip(column_a, row_b)) for row_b in zip(*matrix_b) ] for column_a in matrix_a]
     return result
-
-
-matrix_x= [[2, 5], [1, 1]]
-matrix_y = [[1, 1, 2], [2, 1, 1]]
-matrix_z = [[2, 4], [5, 3], [1, 3]]
-
-print(matrix_product(matrix_y, matrix_z)) # Expected value: [[9, 13], [10, 14]]
-print(matrix_product(matrix_z, matrix_x)) # Expected value: [[8, 14], [13, 28], [5, 8]]
-print(matrix_product(matrix_x, matrix_x)) # Expected value: [[9, 15], [3, 6]]
-# print(matrix_product(matrix_y, matrix_x)) # Expected value: False

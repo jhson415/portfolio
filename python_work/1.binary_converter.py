@@ -1,6 +1,7 @@
-# 십진수 - 이진수 변환 프로그램
+# Binary - decimal converter
 # Without any modules including numpy
 
+# Check if the user is going to input binary
 def input_b(user_input):
     if user_input.upper() == 'B':
         result = True
@@ -9,7 +10,7 @@ def input_b(user_input):
 
     return result
 
-
+# Check if the user is going to input decimal
 def input_d(user_input):
     if user_input.upper() == 'D':
         result = True
@@ -18,7 +19,7 @@ def input_d(user_input):
 
     return result
 
-
+# binary_to_decimal converter
 def binary_to_decimal(binary_input):
     result = 0
     if int(binary_input) >= 0:
@@ -32,7 +33,7 @@ def binary_to_decimal(binary_input):
 
     return result
 
-
+# decimal_to_binary converter
 def decimal_to_binary(decimal_input):
     result = ''
     decimal_input = int(decimal_input)
@@ -55,7 +56,7 @@ def decimal_to_binary(decimal_input):
 
     return result
 
-
+# check if the input is in the right value
 def is_decimal_value(decimal_input):
     try:
         decimal_input = int(decimal_input)
@@ -68,7 +69,7 @@ def is_decimal_value(decimal_input):
 
     return result
 
-
+# check if the input is in the right value
 def is_binary_value(binary_input):
     binary_set = {'0', '1'}
     user_set = set()
@@ -136,5 +137,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-

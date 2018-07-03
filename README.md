@@ -16,7 +16,7 @@ The focus of this research stays between science and literature. Combination wor
 [Click to see the PDF](./graduation_thesis/graduation_thesis.pdf)
 
 ## General Python Coding
-- [**Codes to solve Project Euler**](./python_work/project_euler/)
+- **[Codes to solve questions from Project Euler](./python_work/project_euler/)**
   - All the questions that were solved with the questions and answers attached.
 - **[Binary Converter](./python_work/1.binary_converter.py)**  
   - A simple program that takes a integer as an input, and convert it to binary if the input value is decimal, and covert it to decimal if the origin input is in binary. Capable of error handling when unexpected input gets through.
@@ -30,31 +30,7 @@ The focus of this research stays between science and literature. Combination wor
   - A collection of functions that are capable of solving simple linear algebra equations without using any kind of modules including NumPy. All the codes uses list comprehension to make the code more Pythonic.
 
 ## Data Visualization in English
-### Without modules
-- **[US Birth Data](./data_analysis/without_modules/us_birth/us_birth.ipynb)**
-  - The dataset carries information of the number of birth for each day from 1994 to 2014. It was able to find out some relationship between the birth and dates.
-- **[US Gun Data](./data_analysis/without_modules/us_guns/us_guns.ipynb)**  
-  - Information about the dataset
-
-### With NumPy
-- **[World Alcohole Data](./data_analysis/with_numpy/world_alcohol/world_alcohol.ipynb)**
-  - Information about the dataset
-
-### With Pandas
-- **[Food Information Data](./data_analysis/with_pandas/food_information_data/food_information_analysis.ipynb)**
-  - Information about the dataset
-- **[Thanksgiving Data](./data_analysis/with_pandas/us_thanksgiving_dinner/Thanksgiving_dinner.ipynb)**
-  - Information about the dataset
-
-### With Matplotlib
-- **[College Gender Gap](./data_analysis/with_matplotlib/gender_gap_in_college/college_gender_gap.ipynb)**
-  - Information about the dataset
-- **[Students Job Outcome Data](./data_analysis/with_matplotlib/job_outcomes_of_students/job_outcomes.ipynb)**
-  - Information about the dataset
-- **[Titanic Data](./data_analysis/with_seaborn/titanic.ipynb)**
-  - Information about the dataset
-- **[Airline & Ariports Data](./data_analysis/with_basemap/airlines_and_airports/airlines_and_airports.ipynb)**
-  - Information about the dataset
+### [Practice projects done while the learning process](./data_analysis/practice/README.md)
 
 ## Data Visualization in Korean
 - Preparing

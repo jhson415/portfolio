@@ -1,4 +1,4 @@
-## Practice projects done while the learning process
+## Data analysis practice projects done while the learning process
 ### Without modules
 - **[US Birth Data](./without_modules/us_birth/us_birth.ipynb)**
   - The dataset carries information of the number of birth for each day from 1994 to 2014. It was able to find out some relationship between the birth and dates.

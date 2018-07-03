@@ -1,0 +1,11 @@
+## Small Python Projects
+- **[Binary Converter](./1.binary_converter.py)**  
+  - A simple program that takes a integer as an input, and convert it to binary if the input value is decimal, and covert it to decimal if the origin input is in binary. Capable of error handling when unexpected input gets through.
+- **[Multiplication Table](./2.multiplication_table.py)**
+  - Simple program that takes a integer between 1,9 and return the whole multiplication table. Capable of error handling when unexpected input gets through.
+- **[Baseball Game](./3.baseball_game.py)**
+  - Simple game played between the user and computer, the player has to guess the 3 random integers that do not conflict in the same order. the number of strikes show the numbers that are in the same order, and the number of balls are for the numbers that exists but in other position with the input.  
+- **[Morse Code](./4.morse_code.py)**
+  - Simple program that returns the morse code for the sentence, and returns plain English when a morse code is inputed.
+- **[Linear Algebra](./5.linear_algebra.py)**
+  - A collection of functions that are capable of solving simple linear algebra equations without using any kind of modules including NumPy. All the codes uses list comprehension to make the code more Pythonic.

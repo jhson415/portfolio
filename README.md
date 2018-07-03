@@ -16,6 +16,8 @@ The focus of this research stays between science and literature. Combination wor
 [Click to see the PDF](./graduation_thesis/graduation_thesis.pdf)
 
 ## General Python Coding
+- [**Codes to solve Project Euler**](./python_work/project_euler/)
+  - All the questions that were solved with the questions and answers attached.
 - **[Binary Converter](./python_work/1.binary_converter.py)**  
   - A simple program that takes a integer as an input, and convert it to binary if the input value is decimal, and covert it to decimal if the origin input is in binary. Capable of error handling when unexpected input gets through.
 - **[Multiplication Table](./python_work/2.multiplication_table.py)**
@@ -30,7 +32,7 @@ The focus of this research stays between science and literature. Combination wor
 ## Data Visualization in English
 ### Without modules
 - **[US Birth Data](./data_analysis/without_modules/us_birth/us_birth.ipynb)**
-  - The dataset carries information of the number of birth for each day from 1994 to 2014. It was able to find out some relationship between the birth and dates. 
+  - The dataset carries information of the number of birth for each day from 1994 to 2014. It was able to find out some relationship between the birth and dates.
 - **[US Gun Data](./data_analysis/without_modules/us_guns/us_guns.ipynb)**  
   - Information about the dataset
 

@@ -25,6 +25,9 @@ The focus of this research stays between science and literature. Combination wor
 ### [Practice projects done while the learning process](./data_analysis/practice/README.md)
 
 ## Data Visualization in Korean
-- Preparing
-
+- 2017년말 한국 실업 현황(준비중)
+  - 공공데이터 포털의 고용보험, 정부 세입 세출, 실업급여 데이터를 가지고, 2016-2018년의 실업 상황변화와, 2017년 기준 업종, 나이, 사업체별 실업 상황과 장례전망 시각화와 분석. 위의 데이터의 분석을 통하여, 현제 한국 사회의 가장 큰문제로 대두되고있는 청년 실업 문제와 일반 실업 문제가 실제로 어느정도 상황에 쳐있는지 객관적으로 분석하고, 그중에서도 가장 시급한 문제에 직면해 있는 부분이 어느 부분인지 도출함.
+  1. Jupyter Notebook Code
+  1. Technical Data
+  1. Analysis Report  
 For further questions, work opportunities, and chat send me an email at jhson415@gmail.com
